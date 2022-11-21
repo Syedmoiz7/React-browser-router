@@ -1,8 +1,9 @@
 
 function About() {
+    return(
     <div>
         This is About page
-    </div>
+    </div>)
 }
 
 export default About;
